@@ -1,4 +1,4 @@
-# Amigo Secreto
+# Sorteio do amigo Secreto
 
 Um jogo simples de Amigo Secreto feito com HTML e JavaScript.
 
